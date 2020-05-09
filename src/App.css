@@ -4,7 +4,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
 }
 
@@ -33,4 +33,13 @@
   color: #069;
   text-decoration: underline;
   cursor: pointer;
+}
+
+.MainRecipe {
+    float:left;
+    width: 80%
+}
+.Ingredients {
+    float:right;
+    width: 20%
 }
